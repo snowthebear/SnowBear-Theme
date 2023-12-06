@@ -1,5 +1,5 @@
 {
-  "name": "SnowBear",
+  "name": "SnowBear-Theme",
   "displayName": "SnowBear",
   "description": "uhm",
   "version": "0.0.1",
@@ -7,7 +7,7 @@
     "vscode": "^1.84.2"
   },
 
-  "publisher" : "snowthebear",
+  "publisher" : "YennyHaim",
   "repository": {
     "type" : "git",
     "url" : "https://github.com/snowthebear/SnowBear"
