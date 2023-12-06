@@ -1,7 +1,7 @@
 {
   "name": "SnowBear-Theme",
   "displayName": "SnowBear",
-  "description": "uhm",
+  "description": "Purple turqoise dark theme by Snowthebear",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.2"
@@ -10,7 +10,7 @@
   "publisher" : "YennyHalim",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/snowthebear/SnowBear"
+    "url" : "https://github.com/snowthebear/SnowBear-Theme"
   },
   "keywords": [
     "dark theme",
