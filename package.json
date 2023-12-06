@@ -3,6 +3,10 @@
   "displayName": "SnowBear",
   "description": "uhm",
   "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+
   "publisher" : "snowthebear",
   "repository": {
     "type" : "git",
@@ -18,9 +22,6 @@
     "dark purple theme",
     "purple pink theme"
   ],
-  "engines": {
-    "vscode": "^1.84.0"
-  },
   "categories": [
     "Themes"
   ],
