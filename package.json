@@ -1,9 +1,23 @@
 {
-  "name": "SnowBear",
+  "name": "SnowBear - Dark and purple",
   "displayName": "SnowBear",
   "description": "uhm",
   "version": "0.0.1",
-  
+  "publisher" : "livcodes",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/snowthebear/SnowBear"
+  },
+  "keywords": [
+    "dark theme",
+    "pink theme",
+    "Yenny",
+    "black and purple theme",
+    "netro theme",
+    "aesthetic theme",
+    "dark purple theme",
+    "purple pink theme"
+  ],
   "engines": {
     "vscode": "^1.84.0"
   },
