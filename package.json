@@ -1,0 +1,22 @@
+{
+  "name": "SnowBear",
+  "displayName": "SnowBear",
+  "description": "uhm",
+  "version": "0.0.1",
+  
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Esthetic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Esthetic-color-theme.json"
+      }
+    ]
+  }
+}
