@@ -1,7 +1,7 @@
 {
   "name": "SnowBear-Theme",
   "displayName": "SnowBear-Theme",
-  "description": "👾 Purple turqoise dark theme by Snowthebear 🐻‍❄️",
+  "description": "Purple turqoise dark theme",
   "version": "0.0.8",
   "engines": {
     "vscode": "^1.84.2"
