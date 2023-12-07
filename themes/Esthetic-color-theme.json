@@ -88,7 +88,7 @@
 		"list.focusBackground": "#2C2C2C",
 		"list.focusForeground": "#5EFFFD",
 		"list.highlightForeground": "#C8B6FF",
-		"list.hoverBackground": "#3b3a3aea",
+		"list.hoverBackground": "#3b3a3aef",
 		"list.hoverForeground": "#d28afc",
 		"list.inactiveSelectionBackground": "#1F1F1F30",
 		"list.inactiveSelectionForeground": "#b09bf1",
@@ -163,7 +163,7 @@
 		"statusBarItem.hoverBackground": "#C8B6FF20",
 		"statusBarItem.remoteBackground": "#C8B6FF",
 		"statusBarItem.remoteForeground": "#1F1F1F",
-		"tab.activeBackground": "#C8B6FF50",
+		"tab.activeBackground": "#c8b6ff36",
 		"tab.activeBorder": "#C8B6FF",
 		"tab.activeForeground": "#26E4FF",
 		"tab.activeModifiedBorder": "#C8B6FF",
@@ -174,7 +174,7 @@
 		"tab.unfocusedActiveBackground": "#C8B6FF40",
 		"tab.unfocusedActiveForeground": "#B587FF",
 		"tab.unfocusedInactiveBackground": "#C8B6FF10",
-		"tab.unfocusedInactiveForeground": "#B587FF7f",
+		"tab.unfocusedInactiveForeground": "#741ffb7f",
 		"terminal.ansiBlack": "#1F1F1F",
 		"terminal.ansiBlue": "#5EFFFD",
 		"terminal.ansiBrightBlack": "#C8B6FF",
@@ -470,7 +470,7 @@
 			"variable.parameter"
 		  ],
 		  "settings": {
-			"foreground": "#e9ff70"
+			"foreground": "#b8b8ff"
 		  }
 		},
 		{
