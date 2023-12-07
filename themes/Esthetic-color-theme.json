@@ -233,17 +233,15 @@
 			}
 			},
 		{
-		  "scope": [
-			"variable",
-			"string constant.other.placeholder",
-			"entity.name.function",
+			"scope": [
 			"punctuation.definition.interpolation.end.bracket.curly.scss",
 			"punctuation.definition.interpolation.begin.bracket.curly.scss"
-		  ],
-		  "settings": {
-			"fontStyle": "italic"
-		  }
-		},
+
+			],
+			"settings": {
+			  "fontStyle": "italic"
+			}
+		  },
 		{
 		  "scope": [
 			"punctuation.definition.interpolation.end.bracket.curly.scss",
