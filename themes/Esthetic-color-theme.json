@@ -9,7 +9,7 @@
 		"activityBarBadge.background": "#5EFFFD",
 		"activityBarBadge.foreground": "#1F1F1F",
 		"badge.background": "#1F1F1F30",
-		"badge.foreground": "#C8B6FF",
+		"badge.foreground": "#e5ffb6",
 		"breadcrumb.activeSelectionForeground": "#C8B6FF",
 		"breadcrumb.background": "#1F1F1F",
 		"breadcrumb.focusForeground": "#B587FF",
@@ -88,10 +88,10 @@
 		"list.focusBackground": "#2C2C2C",
 		"list.focusForeground": "#5EFFFD",
 		"list.highlightForeground": "#C8B6FF",
-		"list.hoverBackground": "#262626",
-		"list.hoverForeground": "#26E4FF",
+		"list.hoverBackground": "#3b3a3a",
+		"list.hoverForeground": "#d28afc",
 		"list.inactiveSelectionBackground": "#1F1F1F30",
-		"list.inactiveSelectionForeground": "#C8B6FF",
+		"list.inactiveSelectionForeground": "#b09bf1",
 		"list.warningForeground": "#FFBDFB",
 		"listFilterWidget.background": "#1F1F1F30",
 		"listFilterWidget.noMatchesOutline": "#1F1F1F30",
@@ -154,11 +154,11 @@
 		"sideBarSectionHeader.border": "#1F1F1F60",
 		"sideBarSectionHeader.foreground": "#5EFFFD",
 		"sideBarTitle.foreground": "#B587FF",
-		"statusBar.background": "#BF91FF",
+		"statusBar.background": "#8a3df5",
 		"statusBar.border": "#1F1F1F60",
 		"statusBar.debuggingBackground": "#FFBDFB",
 		"statusBar.debuggingForeground": "#26E4FF",
-		"statusBar.foreground": "#B2E4FF",
+		"statusBar.foreground": "#ddeef8",
 		"statusBar.noFolderBackground": "#1F1F1F",
 		"statusBarItem.hoverBackground": "#C8B6FF20",
 		"statusBarItem.remoteBackground": "#C8B6FF",
@@ -221,7 +221,7 @@
 			  "storage.type",
 			],
 			"settings": {
-			  "foreground": "#a06cd5"
+			  "foreground": "#a672da"
 			}
 		  },
 		{
