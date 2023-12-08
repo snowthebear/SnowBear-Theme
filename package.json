@@ -2,7 +2,7 @@
   "name": "SnowBear-Theme",
   "displayName": "SnowBear-Theme",
   "description": "Purple turqoise dark theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.84.2"
   },
