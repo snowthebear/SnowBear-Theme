@@ -2,7 +2,7 @@
   "name": "SnowBear-Theme",
   "displayName": "SnowBear-Theme",
   "description": "Purple turqoise dark theme",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.84.2"
   },
@@ -20,7 +20,14 @@
     "netro theme",
     "aesthetic theme",
     "dark purple theme",
-    "purple pink theme"
+    "purple pink theme",
+    "aesthetics theme",
+    "black purple theme",
+    "purple black thene",
+    "purple and black theme",
+    "purple theme",
+    "girls theme",
+    "black theme"
   ],
   "categories": [
     "Themes"

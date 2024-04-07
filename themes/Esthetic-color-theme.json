@@ -48,7 +48,7 @@
 		"editorIndentGuide.background": "#26262670",
 		"editorInfo.foreground": "#5EFFFD70",
 		"editorLineNumber.activeForeground": "#5EFFFD",
-		"editorLineNumber.foreground": "#C8B6FFc0",
+		"editorLineNumber.foreground": "#bea8ffc0",
 		"editorLink.activeForeground": "#FFBDFB",
 		"editorMarkerNavigation.background": "#B587FF05",
 		"editorOverviewRuler.border": "#1F1F1F",
@@ -862,15 +862,25 @@
 		{
 			"scope": [
 				"comment.line",
-				"comment.block.documentation",
-				"comment.block",
-				"comment.documentation",
 				"punctuation.definition.comment",
 				"comment",
-				"string.quoted.docstring.multi",
+				
 			],
 			"settings": {
 				"foreground": "#7392cc"
+			}
+		},
+		{
+			"scope": [
+				"string.quoted.docstring.multi",
+				"string.quoted.docstring.multi.python",
+				"comment.block.documentation",
+				"comment.block",
+				"comment.documentation",
+				
+			],
+			"settings": {
+				"foreground": "#e3ae8b"
 			}
 		},
 	  ],
